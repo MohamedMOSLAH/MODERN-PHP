@@ -11,5 +11,7 @@
             "email": "mohamed.amine.moslah@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.66"
+    }
 }
